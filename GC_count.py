@@ -26,7 +26,7 @@ def reverse_complement(sequence):
 
 if __name__ == "__main__":
     # Sample FASTA file path
-    fasta_file = r"C:\Users\swaro\Downloads\sequence.fasta" 
+    fasta_file = r"C:\Users\swaro\Downloads\sequence.fasta" #Replace this with your fasta file 
     # Read the sequence
     dna_sequence = read_fasta(fasta_file)
     
