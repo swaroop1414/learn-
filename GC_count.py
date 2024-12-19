@@ -44,4 +44,4 @@ if __name__ == "__main__":
     
     # Reverse complement
     rev_comp = reverse_complement(dna_sequence)
-    print("Reverse Complement:", rev_comp)
+    #print("Reverse Complement:", rev_comp)
